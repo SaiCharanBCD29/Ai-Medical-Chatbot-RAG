@@ -35,8 +35,7 @@ It represents an **End-to-End AI in Healthcare** project — from data ingestion
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Medical-Chatbot-RAG.git
-   cd Medical-Chatbot-RAG
+   git clone https://github.com/SaiCharanBCD29/Ai-Medical-Chatbot-RAG/blob/main/README.md
 
 # README: Setting Up Your Environment with Pipenv
 
@@ -55,6 +54,7 @@ Run the following commands in your terminal (assuming Pipenv is already installe
 pipenv install langchain langchain_community langchain_huggingface faiss-cpu pypdf
 pipenv install huggingface_hub
 pipenv install streamlit
+
 
 
 
